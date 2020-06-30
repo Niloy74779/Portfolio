@@ -18,6 +18,9 @@ p{
     margin-left: 5%;
     padding-left: 2%;
     text-shadow: 3px;
+    margin-bottom: 10px ;
+    scroll-padding-bottom: 10px;
+    
 
 }
 
@@ -28,6 +31,7 @@ p{
 .top{
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
+    
 }
 section{
     height: 500px;
@@ -42,6 +46,10 @@ section{
     color: white;
     font-weight: bold;
     border-radius: 10px;
+}
+
+.bitton:hover{
+    background-color: linear-gradient( 180deg, blue, cyan);
 }
 
 .next-text{
