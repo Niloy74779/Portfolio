@@ -21,11 +21,11 @@ p{
     margin-bottom: 10px ;
     scroll-padding-bottom: 10px;
     
-
 }
 
  img {
     width: 100%;
+  
 }
 
 .top{
@@ -46,10 +46,7 @@ section{
     color: white;
     font-weight: bold;
     border-radius: 10px;
-}
-
-.bitton:hover{
-    background-color: linear-gradient( 180deg, blue, cyan);
+    background-image: linear-gradient( 180deg, blue, cyan);
 }
 
 .next-text{
@@ -58,7 +55,7 @@ section{
     margin-left: 5%;
     text-shadow: 3px;
     padding-left: 2%;
-    text-indent: 30px;
+  
 }
 
 .next{
@@ -69,7 +66,7 @@ background-position: right;
  
 .resume{
     text-decoration: none;
-    background-image: linear-gradient(45deg, orangered, orange);
+    background-image: linear-gradient(180deg, orangered, orange);
     background-color: orangered;
     padding: 10px 25px;
     color: white;
@@ -81,7 +78,7 @@ background-position: right;
 }
 
 .next-text h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .me{
